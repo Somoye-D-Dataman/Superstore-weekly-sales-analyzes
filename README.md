@@ -18,7 +18,7 @@ The problem is to know the following within the data;
 
 # SKILLS DEMONSTRATED  
 
-This project was completed using excel- major concepts used were filter, pivot table, formular- SUMIF, MAX.
+This project was completed using excel- major concepts used were filter, pivot table, formulas- SUMIF, MAX.
 
 
 # DATA SOURCING
